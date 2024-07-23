@@ -1,8 +1,18 @@
-### Hi there 👋
+Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvin-zr&layout=compact)
 
-- 🌱 I’m currently learning JavaScript, TypeScript, and Go
+
+## Technical Skills ⚒️
+
+- **Languages:** JavaScript, TypeScript, C
+- **Frameworks & Libraries:** React, Next.js, Node.js, Prisma
+- **Tools:** Git
+
+## Key Projects 📚
+
+- <a href="https://github.com/xvin-zr/ai-corpus-anno-sys.git">Data Annotation System</a>: An object detection data annotation system, including publishing tasks, annotating, reviewing, and downloading results.
+
 
 <!--
 **xvin-zr/xvin-zr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
