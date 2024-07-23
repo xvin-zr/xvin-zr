@@ -11,7 +11,7 @@ Hi there 👋
 
 ## Key Projects 📚
 
-- <a href="https://github.com/xvin-zr/ai-corpus-anno-sys.git">Data Annotation System</a>: An object detection data annotation system, including publishing tasks, annotating, reviewing, and downloading results.
+- <a href="https://github.com/xvin-zr/ai-corpus-anno-sys.git">Data Annotation System</a> - An object detection data annotation system, including publishing tasks, annotating, reviewing, and downloading results.
 
 
 <!--
