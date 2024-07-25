@@ -6,12 +6,13 @@ Hi there 👋
 ## Technical Skills ⚒️
 
 - **Languages:** JavaScript, TypeScript, C
-- **Frameworks & Libraries:** React, Next.js, Node.js, Prisma
-- **Tools:** Git
+- **Frameworks & Libraries:** React, Next.js, Node.js, Tailwind, Prisma
+- **Tools:** Git, Vite, Redux
 
 ## Key Projects 📚
 
 - <a href="https://github.com/xvin-zr/ai-corpus-anno-sys.git">Data Annotation System</a> - An object detection data annotation system, including publishing tasks, annotating, reviewing, and downloading results.
+- <a href="https://github.com/xvin-zr/replay-attack">Anti Replay Attack Login Scheme</a> - A secure login system that utilizes JWT, hashing, and public key encryption to prevent replay attacks and ensure secure password updates.
 
 
 <!--
