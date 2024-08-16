@@ -13,6 +13,7 @@ Hi there 👋
 
 - <a href="https://github.com/xvin-zr/ai-corpus-anno-sys.git">Data Annotation System</a> - An object detection data annotation system, including publishing tasks, annotating, reviewing, and downloading results.
 - <a href="https://github.com/xvin-zr/replay-attack">Anti Replay Attack Login Scheme</a> - A secure login system that utilizes JWT, hashing, and public key encryption to prevent replay attacks and ensure secure password updates.
+- <a href="https://github.com/xvin-zr/build-own-react">Build React from Scratch</a> - A from-scratch implementation of core React features using TypeScript. 
 
 
 <!--
