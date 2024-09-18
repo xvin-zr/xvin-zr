@@ -9,7 +9,7 @@ Current dev font: MonoLisa.
 
 - **Languages:** JavaScript, TypeScript, C
 - **Frameworks & Libraries:** React, Next.js, Node.js, Tailwind, Prisma
-- **Tools:** Git, Vite, Redux
+- **Tools:** Git, Vite, Redux, Docker
 
 ## Key Projects 📚
 
