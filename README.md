@@ -1,6 +1,6 @@
 Hi there 👋
 
-Current dev font: Cascadia.
+Current dev font: Rec Mono.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvin-zr&layout=compact)
 
